@@ -13,7 +13,7 @@ title                    : "Juan B. González"
 title_separator          : "-"
 name                     : &name "Juan B. González"
 description              : &description "personal description"
-url                      : https://juanbgon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://juanbgon.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juanbgon/juanbgon.github.io"
 
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of Southern California"
+  uri              : "jbxgonzalez.github.io"
+  email            : "juanbgon@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -133,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : jbxgonzalez
 facebook:
   username               :
   app_id                 :
