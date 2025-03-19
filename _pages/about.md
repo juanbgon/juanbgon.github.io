@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Website"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome! I am a second-year PhD student in Economics at **University of Southern California** and a research consultant at the **Inter-American Development Bank**. 
+I am a second-year PhD student in Economics at **University of Southern California** and a research consultant at the **Inter-American Development Bank**. 
 
 My research focuses on applying experimental methods to questions in crime and labor economics. 
 
