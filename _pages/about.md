@@ -14,6 +14,6 @@ I am a second-year PhD student in Economics at **University of Southern Californ
 
 You can view my CV [here](../files/CV.pdf). 
 
-I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo), and on my free time I like to do [street photography](https://jbxgonzalez.github.io/)
+In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
 
