@@ -10,8 +10,10 @@ redirect_from:
 
 I am a second-year PhD student in Economics at **University of Southern California** and a research consultant at the **Inter-American Development Bank**. 
 
-My research focuses on applying experimental methods to questions in crime and labor economics. 
+[My research](../publications/) focuses on applying experimental methods to questions in crime and labor economics. 
 
-You can view my research [here](../publications/) and my CV [here](../files/CV.pdf). 
+You can view my CV [here](../files/CV.pdf). 
+
+I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo), and on my free time I like to do [street photography](https://jbxgonzalez.github.io/)
 
 
