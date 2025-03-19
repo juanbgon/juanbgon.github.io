@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Juan B. González"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Southern California"
-  uri              : "jbxgonzalez.github.io"
+  bio              : "2nd Year PhD Student at USC"
+  location         : "Los Angeles, CA"
+  employer         : "Univ. of Southern California"
+  uri              : "http://jbxgonzalez.github.io"
   email            : "juanbgon@usc.edu" 
 
   # Academic websites
