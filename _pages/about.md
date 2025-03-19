@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I am a second-year PhD student in Economics at **University of Southern California** and a research consultant at the **Inter-American Development Bank**. 
+I am a second-year PhD student in Economics at **University of Southern California** and a research consultant at the **Inter-American Development Bank**. You can view my CV [here](../files/CV.pdf). 
 
 [My research](../publications/) focuses on applying experimental methods to questions in crime and labor economics. 
 
-You can view my CV [here](../files/CV.pdf). 
+
 
 In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
