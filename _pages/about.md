@@ -12,4 +12,6 @@ I am a second-year PhD student in Economics at **University of Southern Californ
 
 My research focuses on applying experimental methods to questions in crime and labor economics. 
 
+You can view my research [here](../publications/) and my CV [here](..files/CV.pdf). 
+
 
