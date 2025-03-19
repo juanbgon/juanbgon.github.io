@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "jbxgonzalez"
+  instagram        : # "jbxgonzalez"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : jbxgonzalez
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
