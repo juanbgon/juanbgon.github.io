@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /publications/
 author_profile: true
+description: "Juan B. González is an economist at USC researching crime, and behavioral economics."
 ---
 
 ## Working Papers  
