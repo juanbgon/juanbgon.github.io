@@ -1,6 +1,8 @@
 {% include base_path %}
 
 <!-- begin SEO -->
+
+
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
@@ -124,9 +126,6 @@
   </script>
 {% endif %}
 
-{% if site.google_site_verification %}
-  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
-{% endif %}
 {% if site.bing_site_verification %}
   <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
 {% endif %}
@@ -136,4 +135,9 @@
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
+
+  <title>Juan Gonzalez – Economics PhD Student at USC</title>
+  <meta name="description" content="Personal website of Juan Gonzalez, PhD student in Economics at the University of Southern California. Research interests include public economics, urban economics, crime, and transportation.">
+
+
 <!-- end SEO -->
