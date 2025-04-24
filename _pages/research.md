@@ -22,14 +22,17 @@ description: "Juan B. González is an economist at USC researching crime, and be
 
 ## Research In Progress
 
-### [**Selection Neglect in Policing Decisions**](../files/GDP_AllCopsAreBayesian.pdf)  
+### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDP_AllCopsAreBayesian.pdf)  
 <small>*With Santiago de Martini & Santiago Perez-Vincent*  </small>
 <details><summary><small>Abstract</small></summary><small>
 <p style="text-align: justify;"> Police officers exhibit wide racial disparities when predicting which individuals are more likely to commit a crime. We show this pattern of statistical discrimination can be partially explained by common cognitive biases that distort how officers analyze crime data. This paper focuses on two of these biases: not accounting for the fact that crime data is not a representative sample (selection neglect) and exaggerating differences in criminality across groups (representativeness). We model police inference as a decision maker who infers the type of an individual who belongs to a specific group, when the decision maker only has information about a group-specific prior and an individual signal. In particular, we focus on how representativeness can distort such priors and how selection neglect distorts the perception of the signal. We design a novel framed field experiment to evaluate the predictions of the model and estimate these biases at the individual level, having police officers from across Latin America as participants. Finally, we study whether there is an association between these biases and discrimination of minorities by studying the correlation between the estimated biases and an Implicit Association Test. </p>
 </small></details>
 
-### **The Backlash Effect of Gender Quotas**
+### **Raising the Bar: The Backlash of Gender Quotas**
 <small>*With Alejandro Martínez-Marquina*  </small>
+<details><summary><small>Abstract</small></summary><small>
+<p style="text-align: justify;"> Gender quotas have become a pivotal tool to address gender disparities, particularly in political and corporate roles. While they show promise for improving gender equity, they have also sparked backlash, which could render them ineffective or even counterproductive. This project tests whether gender backlash exists, why it arises, and what the consequences are for policies promoting equality, using a novel experimental design. We will also provide experimental evidence of whether increased competition for workers reduces discrimination, a long-standing question across fields.</p>
+</small></details>
 
 
 ## Publications 
