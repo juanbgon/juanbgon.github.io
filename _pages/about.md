@@ -23,7 +23,7 @@ I am a second-year PhD student in Economics at **University of Southern Californ
 
 
 ### Research In Progress
-[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf), *with Santiago de Martini, Ervyn Norza & Santiago Perez-Vincent*  </small>
+[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf), *with Santiago de Martini, Ervyn Norza & Santiago Perez-Vincent*.
 
 
 ### Publications 
