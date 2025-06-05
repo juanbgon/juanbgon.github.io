@@ -6,6 +6,14 @@ description: "Juan B. González is an economist at USC researching crime, and be
 ---
 
 ## Working Papers  
+
+### [**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
+<small>*With Alejandro Martínez-Marquina*  </small>
+<details><summary><small>Abstract</small></summary><small>
+<p style="text-align: justify;"> Gender quotas have become a pivotal tool to address gender disparities, particularly in political and corporate roles. While they show promise for improving gender equity, they have also sparked backlash, which could render them ineffective or even counterproductive. This project tests whether gender backlash exists, why it arises, and what the consequences are for policies promoting equality, using a novel experimental design. We will also provide experimental evidence of whether increased competition for workers reduces discrimination, a long-standing question across fields.</p>
+</small></details>
+
+
 ### [**The Impact of Crime on Public Transport Demand: Evidence from Six Latin American Capitals**](../files/DGP_CrimePublicTransport.pdf)  
 <small>*With Santiago de Martini & Santiago Perez-Vincent*  </small>
 <details><summary><small>Abstract</small></summary><small>
@@ -22,17 +30,13 @@ description: "Juan B. González is an economist at USC researching crime, and be
 
 ## Research In Progress
 
-### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDP_AllCopsAreBayesian.pdf)  
+### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf)  
 <small>*With Santiago de Martini & Santiago Perez-Vincent*  </small>
 <details><summary><small>Abstract</small></summary><small>
-<p style="text-align: justify;"> Police officers exhibit wide racial disparities when predicting which individuals are more likely to commit a crime. We show this pattern of statistical discrimination can be partially explained by common cognitive biases that distort how officers analyze crime data. This paper focuses on two of these biases: not accounting for the fact that crime data is not a representative sample (selection neglect) and exaggerating differences in criminality across groups (representativeness). We model police inference as a decision maker who infers the type of an individual who belongs to a specific group, when the decision maker only has information about a group-specific prior and an individual signal. In particular, we focus on how representativeness can distort such priors and how selection neglect distorts the perception of the signal. We design a novel framed field experiment to evaluate the predictions of the model and estimate these biases at the individual level, having police officers from across Latin America as participants. Finally, we study whether there is an association between these biases and discrimination of minorities by studying the correlation between the estimated biases and an Implicit Association Test. </p>
+<p style="text-align: justify;"> The wide racial disparities in policing decisions are often attributed to racial animus if they don't match accurate statistical predictions. But what if officers hold inaccurate beliefs? We study how selection neglect ---not accounting for the data generating process when making predictions--- can generate inaccurate statistical discrimination through self-reinforcing cycles of bias. In endogenous data environments, where predictions influence future data collection, neglecting selection causes decision makers to mislearn from feedback, perpetuating distorted beliefs. We design a novel framed field experiment to measure selection neglect and its consequences for discrimination among police officers in Latin America. Our design isolates how officers (mis)learn from selected data, how  this biases policing decisions, and how it distorts the value placed on unbiased information. By estimating individual-level biases and linking it to discriminatory behavior, we show how statistical discrimination can emerge from cognitive error rather than animus, and how it may persist even under data-driven policing. </p>
 </small></details>
 
-### **Raising the Bar: The Backlash of Gender Quotas**
-<small>*With Alejandro Martínez-Marquina*  </small>
-<details><summary><small>Abstract</small></summary><small>
-<p style="text-align: justify;"> Gender quotas have become a pivotal tool to address gender disparities, particularly in political and corporate roles. While they show promise for improving gender equity, they have also sparked backlash, which could render them ineffective or even counterproductive. This project tests whether gender backlash exists, why it arises, and what the consequences are for policies promoting equality, using a novel experimental design. We will also provide experimental evidence of whether increased competition for workers reduces discrimination, a long-standing question across fields.</p>
-</small></details>
+
 
 
 ## Publications 
