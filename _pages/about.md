@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: Welcome!
-description: Homepage of Juan B. González, PhD student in Economics at the University of Southern California. Research interests include behavioral, labor, and crime economics.
+description: Homepage of Juan B. González, PhD student in Economics at the University of Southern California. Research interests include experimental, behavioral, labor, and crime economics.
 author_profile: true
 redirect_from: 
   - /about/
