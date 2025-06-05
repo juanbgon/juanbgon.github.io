@@ -32,6 +32,7 @@ Juan B. González & Alfonso Sánchez (2022). [Multilevel Predictors of Climate C
 
 
 <br><br><br>
-In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
+## About me
+Born in Cádiz, Andalusia. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
 
