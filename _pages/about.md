@@ -13,12 +13,25 @@ I am a second-year PhD student in Economics at **University of Southern Californ
 
 [My research](../publications/) uses experimental methods to uncover frictions that cause public policies to backfire, focusing on labor markets, discrimination and crime. An overview:
 
-## Working Papers
-[**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
-<small>*With Alejandro Martínez-Marquina*  </small>
-<details><summary><small>Abstract</small></summary><small>
-<p style="text-align: justify;"> Gender quotas have become a pivotal tool to address gender disparities, particularly in political and corporate roles. While they show promise for improving gender equity, they have also sparked backlash, which could render them ineffective or even counterproductive. This project tests whether gender backlash exists, why it arises, and what the consequences are for policies promoting equality, using a novel experimental design. We will also provide experimental evidence of whether increased competition for workers reduces discrimination, a long-standing question across fields.</p>
-</small></details>
+
+#### Working Papers
+[**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf), *with Alejandro Martínez-Marquina*.  
+
+[**The Impact of Crime on Public Transportation Demand: Evidence from Six Latin American Capitals**](../files/DGP_CrimePublicTransport.pdf), *with Santiago de Martini & Santiago Perez-Vincent*.  
+
+[**Reading Minds to Win: Cognitive and Affective Skills in Children’s Strategic Play**](../files/tomKids.pdf), *with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez*.   
+
+
+<br>
+
+#### Research In Progress
+[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf), *with Santiago de Martini, Ervyn Norza & Santiago Perez-Vincent*  </small>
+
+
+<br>
+
+#### Publications 
+Juan B. González & Alfonso Sánchez (2022). [Multilevel Predictors of Climate Change Beliefs in Africa](https://doi.org/10.1371/journal.pone.0266387).**PLoS One.** *This was my undergrad thesis.*
 
 
 
