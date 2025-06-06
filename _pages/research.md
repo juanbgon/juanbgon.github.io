@@ -12,12 +12,14 @@ description: "Juan B. González is an economist at USC researching experimental,
 <p style="text-align: justify;"> Gender quotas are widely used to address gender disparities, but they may trigger backlash that undermines their effectiveness. In an online experiment simulating hiring decisions, we find clear evidence of such backlash. When participants acting as recruiters are required to hire an additional female candidate, they offer reduced salaries and lower hiring rates to other women--but only when female candidates underperform relative to males. Hence, quota backlash exists, but it is performance-specific. The presence of a quota raises the bar for evaluating other women, inadvertently intensifying scrutiny of the targeted group.</p>
 </small></details>
 
+<br>
 
 [**The Impact of Crime on Public Transport Demand: Evidence from Six Latin American Capitals**](../files/DGP_CrimePublicTransport.pdf), *with Santiago De Martini & Santiago Perez-Vincent*.
 <details><summary><small>Abstract</small></summary><small>
 <p style="text-align: justify;">Public transportation systems are central to reducing traffic congestion and urban pollution, yet in high-crime cities, safety concerns may undermine their use. This paper studies how crime affects the demand for public transportation, using three pre-registered experiments with over 5,000 participants across six Latin American capital cities. First, we find that users place a high value on safety in public transportation: reducing crime is valued at over 50\% of the fare. Second, crime reduces the likelihood of choosing public transport over private alternatives, especially among women. For some users, even eliminating fares does not offset the deterrent effect of higher crime. As a result, crime lowers the responsiveness of public transport demand to fare changes, limiting the effectiveness of subsidies in increasing ridership in high-crime settings. Finally, we find that in a budget allocation task, safety concerns do not reduce support for environmental goals, suggesting room for coordinated interventions. Overall, our findings show that crime creates a negative externality on congestion and pollution by limiting shifts to cleaner modes of transport. They underscore the importance of integrating public safety into transport and environmental policy, and highlight the potential for aligning safety and sustainability objectives.</p>
 </small></details>
 
+<br>
 
 [**Reading Minds to Win: Cognitive and Affective Skills in Children’s Strategic Play**](../files/tomKids.pdf), *with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez*. 
 <details><summary><small>Abstract</small></summary><small>
