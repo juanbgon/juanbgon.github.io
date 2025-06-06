@@ -17,13 +17,13 @@ My research uses experimental methods to uncover frictions that cause public pol
 ### Working Papers
 [**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf), *with Alejandro Martínez-Marquina*.  
 
-[**The Impact of Crime on Public Transportation Demand: Evidence from Six Latin American Capitals**](../files/DGP_CrimePublicTransport.pdf), *with Santiago de Martini & Santiago Perez-Vincent*.  
+[**The Impact of Crime on Public Transportation Demand: Evidence from Six Latin American Capitals**](../files/DGP_CrimePublicTransport.pdf), *with Santiago De Martini & Santiago Perez-Vincent*.  
 
 [**Reading Minds to Win: Cognitive and Affective Skills in Children’s Strategic Play**](../files/tomKids.pdf), *with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez*.   
 
 
 ### Research In Progress
-[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf), *with Santiago de Martini, Ervyn Norza & Santiago Perez-Vincent*.
+[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf), *with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent*.
 
 
 ### Publications 
