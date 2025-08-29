@@ -11,6 +11,7 @@ title: off
 ## [**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
 **With Alejandro Martínez-Marquina**
 
+*Quotas trigger negative spillovers to women not targeted by the policy, who become less likely to be hired:*
 ![quotas](../images/zeroFemale.png)
 
 <details open><summary><small>Abstract</small></summary><small>
@@ -24,6 +25,7 @@ title: off
 
 Circulated as [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)
 
+*Transit users across Latin America are willing to pay over 50% higher fares to reduce crime in public transport:*
 ![wtpCrime](../images/wtp_city.jpg)
 
  
