@@ -8,7 +8,7 @@ title: off
 
 # Working Papers  
 
-## [**Raising the Bar: The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
+## [**The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
 **With Alejandro Martínez-Marquina**
 
 *Quotas trigger negative spillovers to women not targeted by the policy, who become less likely to be hired:*
@@ -49,7 +49,8 @@ Circulated as [IDB Working Paper 1662](https://publications.iadb.org/en/publicat
 ### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDPN_AllCopsAreBayesian.pdf) 
 **With Santiago De Martini & Santiago Perez-Vincent**.
 <details><summary><small>Abstract</small></summary><small>
-<p style="text-align: justify;"> The wide racial disparities in policing decisions are often attributed to racial animus if they don't match accurate statistical predictions. But what if officers hold inaccurate beliefs? We study how selection neglect ---not accounting for the data generating process when making predictions--- can generate inaccurate statistical discrimination through self-reinforcing cycles of bias. In endogenous data environments, where predictions influence future data collection, neglecting selection causes decision makers to mislearn from feedback, perpetuating distorted beliefs. We design a novel framed field experiment to measure selection neglect and its consequences for discrimination among police officers in Latin America. Our design isolates how officers (mis)learn from selected data, how  this biases policing decisions, and how it distorts the value placed on unbiased information. By estimating individual-level biases and linking it to discriminatory behavior, we show how statistical discrimination can emerge from cognitive error rather than animus, and how it may persist even under data-driven policing. </p>
+<p style="text-align: justify;"> Police decisions are guided by officers’ beliefs about where crime is most likely to occur, yet little is known about how these beliefs are formed from crime data. We study whether police officers neglect data selection when predicting crime, i.e., whether they take selected crime data at face value instead of adjusting for the process that generated it. We run a lab-in-the-field experiment with 182 Captains of the National Police of Colombia, who routinely use reported crime data to guide patrol allocation. In a Crime Prediction Task, officers observe crime reports and reporting rates, and are incentivized to predict which neighborhood has more actual crime. Officers exhibit substantial selection neglect: accuracy falls by 36 percentage points when crime reports must be adjusted for reporting rates, and errors are largest when the true crime gap is wide. Neglect operates along two cognitive margins: a third of officers do not consider reporting rates at all (extensive margin), and those who do often fail to apply the adjustment when it is computationally costly (intensive margin). Selection neglect has first-order consequences for crime beliefs: when reporting rates systematically differ across groups of neighborhoods, officers systematically over-predict crime in the over-selected group, and endogenous feedback reinforces this bias. A predictive policing algorithm that corrects for selection does not improve predictions because officers who neglect selection override its corrective recommendations.
+ </p>
 </small></details>
 
 
