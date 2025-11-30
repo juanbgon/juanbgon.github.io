@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a third year PhD student in Economics at **University of Southern California**, and a research consultant at the **Inter-American Development Bank**. You can view my CV [here](../files/CV.pdf). 
+I am a third year PhD student in Economics at **University of Southern California**. You can view my CV [here](../files/CV.pdf). 
 
-[My research](https://juanbgon.github.io/publications/) uses experimental methods to uncover frictions that cause public policies to backfire, focusing on labor markets, discrimination and crime. An overview:
+[My research](https://juanbgon.github.io/publications/) uses experimental methods to uncover frictions that cause public policies to backfire, focusing on labor markets, discrimination, and crime. An overview:
 
 
 ## Working Papers
