@@ -14,7 +14,7 @@ title: off
 Funded by the [Institute for Outlier Research in Business](https://www.marshall.usc.edu/institutes-and-centers/institute-for-outlier-research-in-business).
 
 *Quotas trigger negative spillovers to women not targeted by the policy, who become less likely to be hired, making quotas ineffective on aggregate:*
-![quotas](../images/zeroFemale.png)
+![quotas](../images/hiredExtensive.png)
 
 
 <details open><summary><small>Abstract</small></summary><small>
