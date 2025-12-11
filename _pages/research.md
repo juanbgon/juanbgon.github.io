@@ -11,8 +11,11 @@ title: off
 ## [**The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf)
 **With Alejandro Martínez-Marquina**
 
-*Quotas trigger negative spillovers to women not targeted by the policy, who become less likely to be hired:*
+Funded by the [Institute for Outlier Research in Business](https://www.marshall.usc.edu/institutes-and-centers/institute-for-outlier-research-in-business).
+
+*Quotas trigger negative spillovers to women not targeted by the policy, who become less likely to be hired, making quotas ineffective on aggregate:*
 ![quotas](../images/zeroFemale.png)
+
 
 <details open><summary><small>Abstract</small></summary><small>
 <p style="text-align: justify;"> Gender quotas are a common tool to improve female representation, but they might trigger backlash. We provide experimental evidence that <i>quota backlash</i> —a negative spillover for women not directly targeted by the quota— exists and significantly undermines the policy’s goals. When recruiters in an online hiring experiment are required to hire a female <i>quota candidate</i>, non-targeted women only receive 90 cents per each dollar they receive in absence of the quota.  Quotas raise the bar for evaluating other women: backlash arises only against women underperform relative to other candidates, and is strongest when the mandated quota candidate has low performance. Because backlash is costly for recruiters, Becker's model of discrimination predicts competition can discipline it. When we make each recruiter compete in offers with two other participants, backlash almost disappears, restoring most of the policy’s effectiveness. These results clarify the conditions under which quotas improve gender equity outcomes and when they might backfire. </p>
@@ -23,7 +26,7 @@ title: off
 ## [**Safety First: Crime and the Demand for Public Transportation in Latin America**](../files/DGP_SafetyFirst.pdf)
 **With Santiago De Martini & Santiago Perez-Vincent**
 
-Circulated as [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)
+Funded by the IDB, first released as [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)
 
 *Transit users across Latin America are willing to pay over 50% higher fares to reduce crime in public transport:*
 ![wtpCrime](../images/wtp_city.jpg)
@@ -48,9 +51,11 @@ Circulated as [IDB Working Paper 1662](https://publications.iadb.org/en/publicat
 
 ### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDNP_AllCopsAreBayesian.pdf) 
 **With Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent**.
+
+Funded by the [Center for Effective Global Action](https://cega.berkeley.edu/).
+
 <details><summary><small>Abstract</small></summary><small>
-<p style="text-align: justify;">Crime data suffers from selection bias: only a subset of crime events becomes observable, and observability endogenously varies across locations and groups. If police officers form beliefs by taking selected data at face value rather than adjusting for the selection process, biased data can become biased crime predictions. We provide the first causal evidence on this mechanism using a lab-in-the-field experiment with 182 Captains of the National Police of Colombia, who routinely rely on reported crime data to allocate patrols. In a Crime Prediction Task, officers observe both crime reports and reporting rates and are incentivized to predict which neighborhood experienced more crime. Officers exhibit substantial selection neglect: accuracy falls by 36 percentage points when reports must be adjusted for reporting rates, and errors are largest when the true crime gap is wide. Neglect operates along two cognitive margins: one third of officers do not consider reporting rates at all (extensive margin), while many of those who do consider them apply the adjustment only when it is computationally easy (intensive margin). Selection neglect has first-order consequences: when reporting rates systematically differ across groups, officers systematically over-predict crime in the over-selected group, and endogenous feedback amplifies this pattern. A predictive policing algorithm that corrects for selection fails to improve predictions because officers who neglect selection override its corrective recommendations.
- </p>
+<p style="text-align: justify;">Crime data suffers from selection bias: only a subset of crime events becomes observable, and observability endogenously varies across locations and groups, with minorities being over-selected into crime data. If police officers form beliefs by taking selected data at face value rather than adjusting for the selection process, biased data can become biased crime predictions. We provide the first causal evidence on this mechanism using a lab-in-the-field experiment with 182 Captains of the National Police of Colombia, who routinely rely on reported crime data to allocate patrols. In a Crime Prediction Task, officers observe both crime reports (selected data) and reporting rates (selection process) and are incentivized to predict which fictitious neighborhood experienced more crime. Officers exhibit substantial selection neglect: prediction accuracy falls by 36 percentage points when reports must be adjusted for reporting rates, and errors are largest when the true crime gap is wide. Neglect operates along two cognitive margins: one third of officers do not consider reporting rates at all, while many of those who do consider them adjust for selection when it is computationally easier. Selection neglect has first-order consequences: when there is selection bias across abstract groups, officers systematically over-predict crime in the over-selected group, showing that this cognitive error can contribute to policing disparities even in the absence of taste bias. A predictive policing algorithm that corrects for selection fails to improve predictions because officers who neglect selection override its corrective recommendations.</p>
 </small></details>
 
 
