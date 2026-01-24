@@ -49,7 +49,7 @@ Funded by the IDB, first released as [IDB Working Paper 1662](https://publicatio
 
 # Research In Progress
 
-### [**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDNP_AllCopsAreBayesian.pdf) 
+### [**Inferring Crime from Selected Data: Selection Neglect and Statistical Discrimination in Policing**](../files/GDNP_AllCopsAreBayesian.pdf) 
 **With Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent**.
 
 Funded by the [Center for Effective Global Action](https://cega.berkeley.edu/).
