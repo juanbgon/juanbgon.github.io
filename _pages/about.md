@@ -36,7 +36,7 @@ The Paradox of Quotas
 ## Journal Articles 
 
 [Multilevel Predictors of Climate Change Beliefs in Africa](https://doi.org/10.1371/journal.pone.0266387). 
-<span style="color:#888; font-size:0.88em;">with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent</span>
+<span style="color:#888; font-size:0.88em;">with Alfonso Sanchez</span>
 <span style="font-size:0.88em;"> <span style="color:#000000;"> PLOS One</span> 2022, 17(4): e0266387.</span>
 
 <br><br><br>
