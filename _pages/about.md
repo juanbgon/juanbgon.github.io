@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am a third year PhD student in Economics at **University of Southern California**. You can view my CV [here](../files/CV.pdf). 
-[My research](https://juanbgon.github.io/publications/) uses experiments to study endogenous responses that cause well-intended public policies to backfire, focusing on discrimination in labor markets and policing. An overview:
+
+[My research](https://juanbgon.github.io/publications/) uses experiments to study endogenous responses that cause well-intended public policies to backfire, focusing on discrimination in labor markets and policing. 
 
 ## Working Papers
 
