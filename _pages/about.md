@@ -33,9 +33,11 @@ I am a third year PhD student in Economics at **University of Southern Californi
 The Paradox of Quotas  
 <span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>
 
-## Publications 
+## Journal Articles 
 
-Juan B. González & Alfonso Sánchez (2022). [Multilevel Predictors of Climate Change Beliefs in Africa](https://doi.org/10.1371/journal.pone.0266387). PLoS One. *(This was my undergrad thesis)*
+[Multilevel Predictors of Climate Change Beliefs in Africa](https://doi.org/10.1371/journal.pone.0266387). 
+<span style="color:#888; font-size:0.88em;">with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent</span>
+<span style="font-size:0.88em;"> <span style="color:#000000;"> PLOS One</span> 2022, 17(4): e0266387.</span>
 
 <br><br><br>
 
