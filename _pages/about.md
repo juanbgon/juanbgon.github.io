@@ -16,14 +16,20 @@ I am a third year PhD student in Economics at **University of Southern Californi
 
 ## Working Papers
 [**The Backlash of Gender Quotas**](../files/GMM_QuotaBacklash.pdf), *with Alejandro Martínez-Marquina*.  
+Under Review
+
+[**Reading Minds to Win: Cognitive and Affective Skills in Children’s Strategic Play**](../files/tomKids.pdf), *with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez*.  
+Under Review
 
 [**Safety First: Crime and the Demand for Public Transportation in Latin America**](../files/DGP_SafetyFirst.pdf), *with Santiago De Martini & Santiago Perez-Vincent*. [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf). 
 
-[**Reading Minds to Win: Cognitive and Affective Skills in Children’s Strategic Play**](../files/tomKids.pdf), *with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez*.   
+
 
 
 ## Research In Progress
 [**Not All Cops Are Bayesian: Selection Neglect and Statistical Discrimination in Policing**](../files/GDNP_AllCopsAreBayesian.pdf), *with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent*.
+
+**The Paradox of Quotas**, *with Alejandro Martínez-Marquina*.
 
 
 ## Publications 
