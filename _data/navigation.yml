@@ -14,14 +14,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
 
-  - title: "CV"
-    url: /../files/CV.pdf
+#  - title: "CV"
+#   url: /../files/CV.pdf
     
-  - title: "Photography"
-    url: "https://jbxgonzalez.github.io"
+#  - title: "Photography"
+  #  url: "https://jbxgonzalez.github.io"
         
   # - title: "Blog Posts"
   #   url: /year-archive/
