@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third year PhD student in Economics at **University of Southern California**. You can view my CV [here](../files/CV.pdf). 
 
-[My research](https://juanbgon.github.io/publications/) uses experimental methods to uncover frictions that cause public policies to backfire, focusing on labor markets, discrimination, and crime. An overview:
+[My research](https://juanbgon.github.io/publications/) uses experiments to study endogenous responses that cause well-intended public policies to backfire, focusing on discrimination in labor markets and policing. An overview:
 
 
 ## Working Papers
@@ -23,7 +23,7 @@ I am a third year PhD student in Economics at **University of Southern Californi
 
 
 ## Research In Progress
-[**All Cops Are Bayesian? Selection Neglect in Policing Decisions**](../files/GDNP_AllCopsAreBayesian.pdf), *with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent*.
+[**Not All Cops Are Bayesian: Selection Neglect and Statistical Discrimination in Policing**](../files/GDNP_AllCopsAreBayesian.pdf), *with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent*.
 
 
 ## Publications 
@@ -33,6 +33,6 @@ Juan B. González & Alfonso Sánchez (2022). [Multilevel Predictors of Climate C
 
 <br><br><br>
 ## About me
-Born in Cádiz, Andalusia. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
+From Cádiz, Andalucía. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
 
