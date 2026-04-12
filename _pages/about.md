@@ -43,7 +43,7 @@ The Paradox of Quotas
 <span style="color:#888; font-size:0.88em;">with Alfonso Sanchez</span><br>
 <span style="font-size:0.88em;"><span style="color:#000000;">PLOS One</span> 2022, 17(4): e0266387.</span>
 
-<br><br><br>
+<br><hr>
 
 ## About me
 
