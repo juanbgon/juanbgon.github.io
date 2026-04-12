@@ -16,6 +16,10 @@ I am a third year PhD student in Economics at **University of Southern Californi
 [The Backlash of Gender Quotas](../files/GMM_QuotaBacklash.pdf)  
 <span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>  
 <span style="font-size:0.88em;">Under Review</span> 
+<details><summary><small>Abstract</small></summary><small>
+<p style="text-align: justify;"> Gender quotas are used to address gender disparities, but they may trigger backlash that undermines their effectiveness. In an online hiring experiment, requiring recruiters to hire a female candidate for one position leads them to penalize women in other, uncovered positions, offering lower salaries and making them twice as likely to receive no offer. No such effect arises when quotas mandate hiring men. Backlash emerges among supporters and opponents of equity policies, and renders the quota policy ineffective. Under the quota, women are evaluated jointly with quota beneficiaries, unintentionally raising the bar for the group the policy aims to promote. </p>
+</small></details>
+
 
 [Reading Minds to Win: Cognitive and Affective Skills in Children's Strategic Play](../files/tomKids.pdf)  
 <span style="color:#888; font-size:0.88em;">with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez</span>  
