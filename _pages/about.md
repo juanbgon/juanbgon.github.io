@@ -15,7 +15,7 @@ Currently a third year PhD student in Economics at **University of Southern Cali
 
 ## Working Papers
 
-[The Backlash of Gender Quotas](../files/GMM_QuotaBacklash.pdf)  
+[The Backlash of Gender Quotas](https://www.ssrn.com/abstract=6539018)  
 <span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>  
 <span style="font-size:0.88em;">Under Review</span> 
 
