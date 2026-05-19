@@ -21,7 +21,7 @@ Currently a third year PhD student in Economics at **University of Southern Cali
 
 [Reading Minds to Win: Cognitive and Affective Skills in Children's Strategic Play](../files/tomKids.pdf)  
 <span style="color:#888; font-size:0.88em;">with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez</span>  
-<span style="font-size:0.88em;">Under Review</span> 
+<span style="font-size:0.88em;">R&R, Journal of Economic Theory</span> 
 
 [Safety First: Crime and the Demand for Public Transportation in Latin America](../files/DGP_SafetyFirst.pdf)  
 <span style="color:#888; font-size:0.88em;">with Santiago De Martini & Santiago Perez-Vincent</span>  
