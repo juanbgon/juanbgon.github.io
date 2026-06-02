@@ -23,7 +23,7 @@ Currently a third year PhD student in Economics at **University of Southern Cali
 <span style="color:#888; font-size:0.88em;">with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez</span>  
 <span style="font-size:0.88em;">R&R, Journal of Economic Theory</span> 
 
-[Safety First: Crime and the Demand for Public Transportation in Latin America](../files/DGP_SafetyFirst.pdf)  
+[Crime and Transportation Choice in Latin America](../files/DGP_SafetyFirst.pdf)  
 <span style="color:#888; font-size:0.88em;">with Santiago De Martini & Santiago Perez-Vincent</span>  
 <span style="font-size:0.88em;">[IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)</span> 
 
