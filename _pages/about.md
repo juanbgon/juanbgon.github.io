@@ -10,7 +10,7 @@ redirect_from:
 
 I use experiments to study endogenous responses that cause well-intended public policies to backfire, focusing on discrimination in labor markets and policing. 
 
-Currently a third year PhD student in Economics at **University of Southern California**. You can view my CV [here](../files/CV.pdf). 
+Currently a third year PhD student in Economics at **University of Southern California**. You can [view my CV here](../files/CV.pdf). 
 
 
 ## Working Papers
