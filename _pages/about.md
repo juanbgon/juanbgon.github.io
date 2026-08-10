@@ -29,7 +29,7 @@ Currently a third year PhD student in Economics at **University of Southern Cali
 
 ## Research In Progress
 
-[Not All Cops Are Bayesian: Selection Neglect and Statistical Discrimination in Policing](../files/GDNP_AllCopsAreBayesian.pdf)  
+[Not All Cops Are Bayesian: Selection Neglect in Data-Driven Policing](../files/GDNP_AllCopsAreBayesian.pdf)  
 <span style="color:#888; font-size:0.88em;">with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent</span>
 
 The Paradox of Quotas  
