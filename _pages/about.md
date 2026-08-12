@@ -83,7 +83,7 @@ The Paradox of Quotas
 </div>
 
 <div class="teaching-grid">
-  <div class="term">Fall 2025 & Fall 2024 <br>  </div>
+  <div class="term">Fall 2025 <br> & Fall 2024   </div>
   <div class="course-name">Experimental Economics <br> <span style="color:#888; font-size:0.88em;">ECON 420 </span> </div>
   <div class="prof-info">Prof. Juan Carrillo</div>
 </div>
@@ -100,6 +100,6 @@ The Paradox of Quotas
 
 ## About me
 
-From Cádiz, Andalucía. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
+From Cádiz, Andalucía. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/) and pottery, and I have contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
 
