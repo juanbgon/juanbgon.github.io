@@ -73,7 +73,7 @@ The Paradox of Quotas
   <div class="term"> Spring 2026</div>
   <div class="course-name">Principles of Macroeconomics <br> 
     <span style="color:#888; font-size:0.88em;">ECON 205</span>  --- 
-    <a href="files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8em;">[View Evaluations]</a> </div>
+    [View Evaluations](https://juanbgon.github.io/files/ECON205reviewsSpring2026.pdf) </div>
   <div class="prof-info">Prof. Andrés Pérez Corsini</div>
 </div>
 
