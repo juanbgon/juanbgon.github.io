@@ -21,9 +21,9 @@ redirect_from:
     border-bottom: 1px solid #eee;
   }
   
-  .term { font-weight: bold; color: #5a7d7c; font-size: 0.9rem; }
+  .term {color: #5a7d7c; font-size: 0.8em; }
   .course-name {  }
-  .prof-info { font-size: 0.9rem; color: #888; font-style: italic; text-align: right; }
+  .prof-info { font-size: 0.8rem; color: #888; font-style: italic; text-align: right; }
   
   @media (max-width: 700px) {
     .teaching-grid { grid-template-columns: 1fr; gap: 5px; }
