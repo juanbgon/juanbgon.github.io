@@ -72,15 +72,14 @@ The Paradox of Quotas
 <div class="teaching-grid">
   <div class="term"> Spring 2026</div>
   <div class="course-name">Principles of Macroeconomics <br> 
-    <span style="color:#888; font-size:0.88em;">ECON 205</span>  --- 
-    [View Evaluations](https://juanbgon.github.io/files/ECON205reviewsSpring2026.pdf) </div>
+    <span style="color:#888; font-size:0.88em;">ECON 205 </span><a href="../files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8rem;">[View Evaluations]</a> </div>
   <div class="prof-info">Prof. Andrés Pérez Corsini</div>
 </div>
 
 <div class="teaching-grid">
   <div class="term">F2025, S2025<br> & Fall 2024  </div>
   <div class="course-name">Game Theory <br> <span style="color:#888; font-size:0.88em;">ECON 404 </span> </div>
-  <div class="prof-info">Prof. Juan Carrillo & Prof. Jonathan Libgober</div>
+  <div class="prof-info">Prof. Juan Carrillo <br> & Prof. Jonathan Libgober</div>
 </div>
 
 <div class="teaching-grid">
