@@ -8,6 +8,30 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+
+  /* --- TEACHING GRID --- */
+  .teaching-grid {
+    display: grid;
+    grid-template-columns: 140px 1fr 1fr; 
+    gap: 15px;
+    align-items: baseline;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .term { font-weight: bold; color: #5a7d7c; font-size: 0.9rem; }
+  .course-name { font-weight: 700; color: #2c3e50; }
+  .prof-info { font-size: 0.9rem; color: #666; font-style: italic; text-align: right; }
+  
+  @media (max-width: 700px) {
+    .teaching-grid { grid-template-columns: 1fr; gap: 5px; }
+    .prof-info { text-align: left; }
+  }
+</style>
+
+
 I use experiments to study why well-intended policies often backfire, focusing on discrimination in labor markets and policing. 
 
 Currently a third year PhD student in Economics at **University of Southern California**. You can [view my CV here](../files/CV.pdf). 
@@ -41,8 +65,44 @@ The Paradox of Quotas
 <span style="color:#888; font-size:0.88em;">with Alfonso Sanchez</span><br>
 <span style="font-size:0.88em;"><span style="color:#000000;">PLOS One</span> 2022, 17(4): e0266387.</span>
 
+
+## Teaching 
+
+
+<div class="teaching-grid">
+  <div class="term">Fall 2025 & <br>Spring 2026</div>
+  <div class="course-name">Intermediate Macroeconomics</div>
+  <div class="prof-info">Prof. Robert Dekle (Undergrad)</div>
+</div>
+
+<div class="teaching-grid">
+  <div class="term">Spring 2025</div>
+  <div class="course-name">Macroeconomic Theory II</div>
+  <div class="prof-info">Profs. Pablo Kurlat & Andy Neumeyer (PhD)</div>
+</div>
+
+<div class="teaching-grid">
+  <div class="term">Fall 2024</div>
+  <div class="course-name">
+    Introduction to Macroeconomics <br>
+    <a href="files/evaluations_Fall_2024.pdf" target="_blank" style="font-size: 0.8rem; font-weight: normal;">[View Evaluations]</a>
+  </div>
+  <div class="prof-info">Prof. Lodovico Pizzati (Undergrad)</div>
+</div>
+
+<div class="teaching-grid">
+  <div class="term">Spring 2024</div>
+  <div class="course-name">Macroeconomic Bootcamp</div>
+  <div class="prof-info">Prof. Pablo Kurlat (PhD Core)</div>
+</div>
+
+
+
+
 <hr>
 
 ## About me
 
 From Cádiz, Andalucía. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/), and I have also contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
+
+
