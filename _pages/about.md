@@ -22,8 +22,8 @@ redirect_from:
   }
   
   .term { font-weight: bold; color: #5a7d7c; font-size: 0.9rem; }
-  .course-name { font-weight: 700; color: #2c3e50; }
-  .prof-info { font-size: 0.9rem; color: #666; font-style: italic; text-align: right; }
+  .course-name {  }
+  .prof-info { font-size: 0.9rem; color: #888; font-style: italic; text-align: right; }
   
   @media (max-width: 700px) {
     .teaching-grid { grid-template-columns: 1fr; gap: 5px; }
@@ -70,32 +70,30 @@ The Paradox of Quotas
 
 
 <div class="teaching-grid">
-  <div class="term">Fall 2025 & <br>Spring 2026</div>
-  <div class="course-name">Intermediate Macroeconomics</div>
-  <div class="prof-info">Prof. Robert Dekle (Undergrad)</div>
+  <div class="term"> Spring 2026</div>
+  <div class="course-name">Principles of Macroeconomics <br> 
+    <span style="color:#888; font-size:0.88em;">ECON 205</span>  --- 
+    <a href="files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8em;">[View Evaluations]</a> </div>
+  <div class="prof-info">Prof. Andrés Pérez Corsini</div>
 </div>
 
 <div class="teaching-grid">
-  <div class="term">Spring 2025</div>
-  <div class="course-name">Macroeconomic Theory II</div>
-  <div class="prof-info">Profs. Pablo Kurlat & Andy Neumeyer (PhD)</div>
+  <div class="term">F2025, S2025<br> & Fall 2024  </div>
+  <div class="course-name">Game Theory <br> <span style="color:#888; font-size:0.88em;">ECON 404 </span> </div>
+  <div class="prof-info">Prof. Juan Carrillo & Prof. Jonathan Libgober</div>
 </div>
 
 <div class="teaching-grid">
-  <div class="term">Fall 2024</div>
-  <div class="course-name">
-    Introduction to Macroeconomics <br>
-    <a href="files/evaluations_Fall_2024.pdf" target="_blank" style="font-size: 0.8rem; font-weight: normal;">[View Evaluations]</a>
-  </div>
-  <div class="prof-info">Prof. Lodovico Pizzati (Undergrad)</div>
+  <div class="term">Fall 2025 & Fall 2024 <br>  </div>
+  <div class="course-name">Experimental Economics <br> <span style="color:#888; font-size:0.88em;">ECON 420 </span> </div>
+  <div class="prof-info">Prof. Juan Carrillo</div>
 </div>
 
 <div class="teaching-grid">
-  <div class="term">Spring 2024</div>
-  <div class="course-name">Macroeconomic Bootcamp</div>
-  <div class="prof-info">Prof. Pablo Kurlat (PhD Core)</div>
+  <div class="term"> Spring 2025 <br>  </div>
+  <div class="course-name"> Neuroeconomics <br> <span style="color:#888; font-size:0.88em;">ECON 405 </span> </div>
+  <div class="prof-info">Prof. Giorgio Coricelli</div>
 </div>
-
 
 
 
