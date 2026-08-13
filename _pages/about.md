@@ -98,7 +98,7 @@ The Paradox of Quotas
   <div class="term"> Spring 2025</div>
   <div class="course-name">Macro PhD Core Exam Bootcamp<br> 
     <span style="color:#888; font-size:0.88em;">ECON 602 & 605 </span> </div>
-  <div class="prof-info">Prof. Monica Morlacco <br> & Prof. Pablo Kurlat</div>
+  <div class="prof-info"> </div>
 </div>
 
 
