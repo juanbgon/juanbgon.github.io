@@ -107,6 +107,6 @@ The Paradox of Quotas
 
 ## About me
 
-From Cádiz, Andalucía. In my free time, I like to do [street photography](https://jbxgonzalez.github.io/) and pottery, and I have contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
+From Cádiz, Andalucía. In my free time, I like to do [street photography](https://sites.google.com/view/juanbgon/work) and pottery, and I have contributed a [R package for data visualization](https://github.com/jbgb13/peRReo).
 
 
