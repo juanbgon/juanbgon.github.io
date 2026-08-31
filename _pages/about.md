@@ -34,7 +34,7 @@ redirect_from:
 
 I use experiments to study why well-intended policies often backfire, focusing on discrimination in labor markets and policing. 
 
-Currently a third year PhD student in Economics at **University of Southern California**. You can [view my CV here](../files/CV.pdf). 
+Currently a fourth year PhD student in Economics at **University of Southern California**. You can [view my CV here](../files/CV.pdf). 
 
 
 ## Working Papers
