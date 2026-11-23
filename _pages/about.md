@@ -32,9 +32,7 @@ redirect_from:
 </style>
 
 
-I use experiments to study why well-intended policies often backfire, focusing on discrimination in labor markets and policing. 
-
-Currently a fourth year PhD student in Economics at **University of Southern California**. You can [view my CV here](../files/CV.pdf). 
+I am a PhD student in Economics at the **University of Southern California**. My research is in behavioral and applied economics, combining data and experiments to inform the design of more effective public policies. You can [view my CV here](../files/CV.pdf). 
 
 
 ## Working Papers
@@ -51,6 +49,7 @@ Currently a fourth year PhD student in Economics at **University of Southern Cal
 <span style="color:#888; font-size:0.88em;">with Santiago De Martini & Santiago Perez-Vincent</span>  
 <span style="font-size:0.88em;">Under Review &mdash; [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)</span> 
 
+
 ## Research In Progress
 
 [Are Cops All Bayesian? Selection Neglect in Data-Driven Policing](../files/GDNP_AllCopsAreBayesian.pdf)  
@@ -58,6 +57,7 @@ Currently a fourth year PhD student in Economics at **University of Southern Cal
 
 The Paradox of Quotas  
 <span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>
+
 
 ## Journal Articles 
 
