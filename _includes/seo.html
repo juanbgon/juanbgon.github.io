@@ -50,9 +50,9 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="Homepage of Juan B. González, a PhD student in Economics at the University of Southern California. Research interests include behavioral, gender, and crime economics.">
-{% endif %}
+{% assign seo_description = page.description | default: site.description | strip_html | normalize_whitespace | escape_once %}
+<meta name="description" content="{{ seo_description }}">
+<meta property="og:description" content="{{ seo_description }}">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
@@ -136,8 +136,6 @@
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
 
-  <title>Juan Gonzalez – Economics PhD Student at USC</title>
-  <meta name="description" content="Personal website of Juan Gonzalez, PhD student in Economics at the University of Southern California. Research interests include public economics, urban economics, crime, and transportation.">
 
 
 <!-- end SEO -->
