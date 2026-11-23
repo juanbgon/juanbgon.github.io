@@ -10,24 +10,20 @@ redirect_from:
 
 <style>
 
-  /* --- TEACHING GRID --- */
-  .teaching-grid {
-    display: grid;
-    grid-template-columns: 140px 1fr 1fr; 
-    gap: 15px;
-    align-items: baseline;
-    margin-bottom: 15px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
-  }
-  
-  .term {color: #5a7d7c; font-size: 0.8em; }
-  .course-name {  }
-  .prof-info { font-size: 0.8rem; color: #666; font-style: italic; text-align: right; }
-  
+  /* --- TEACHING TABLE --- */
+  table.teaching { display: table; border: 0; font-size: 0.85em; margin-bottom: 1.5em; }
+  table.teaching td { border: 0; border-bottom: 1px solid var(--global-border-color); padding: 0.55em 0.75em 0.55em 0; vertical-align: baseline; }
+  table.teaching tr:last-child td { border-bottom: 0; }
+  table.teaching .eval { font-size: 0.85em; }
+  .term { color: #5a7d7c; }
+  .prof-info { color: #666; font-style: italic; text-align: right; padding-right: 0; }
+
+  /* on phones, stack each course: name, then terms, then instructors */
   @media (max-width: 700px) {
-    .teaching-grid { grid-template-columns: 1fr; gap: 5px; }
-    .prof-info { text-align: left; }
+    table.teaching tr { display: block; padding: 0.5em 0; border-bottom: 1px solid var(--global-border-color); }
+    table.teaching tr:last-child { border-bottom: 0; }
+    table.teaching td { display: block; border: 0; padding: 0.1em 0; }
+    table.teaching .prof-info { text-align: left; }
   }
 
   /* --- PAPER SUMMARIES --- */
@@ -95,42 +91,15 @@ The Paradox of Quotas
 <span style="font-size:0.88em;">*PLOS One* 2022, 17(4): e0266387.</span>
 
 
-## Teaching 
+## Teaching
 
-
-<div class="teaching-grid">
-  <div class="term"> Spring 2026</div>
-  <div class="course-name">Principles of Macroeconomics <br> 
-    <span class="muted">ECON 205 </span><a href="/files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8rem;">[View Evaluations]</a> </div>
-  <div class="prof-info">Prof. Andrés Pérez Corsini</div>
-</div>
-
-<div class="teaching-grid">
-  <div class="term">Fall 2025, Spring 2025<br> & Fall 2024</div>
-  <div class="course-name">Game Theory <br> <span class="muted">ECON 404 </span> </div>
-  <div class="prof-info">Prof. Juan Carrillo <br> & Prof. Jonathan Libgober</div>
-</div>
-
-<div class="teaching-grid">
-  <div class="term">Fall 2025 <br> & Fall 2024   </div>
-  <div class="course-name">Experimental Economics <br> <span class="muted">ECON 420 </span> </div>
-  <div class="prof-info">Prof. Juan Carrillo</div>
-</div>
-
-<div class="teaching-grid">
-  <div class="term"> Spring 2025 <br>  </div>
-  <div class="course-name"> Neuroeconomics <br> <span class="muted">ECON 405 </span> </div>
-  <div class="prof-info">Prof. Giorgio Coricelli</div>
-</div>
-
-<div class="teaching-grid">
-  <div class="term"> Spring 2025</div>
-  <div class="course-name">Macro PhD Core Exam Bootcamp<br> 
-    <span class="muted">ECON 602 & 605 </span> </div>
-  <div class="prof-info"> </div>
-</div>
-
-
+<table class="teaching">
+  <tr><td>Principles of Macroeconomics <span class="muted">ECON 205</span> <a class="eval" href="/files/ECON205reviewsSpring2026.pdf" target="_blank">evaluations</a></td><td class="term">Spring 2026</td><td class="prof-info">Pérez Corsini</td></tr>
+  <tr><td>Game Theory <span class="muted">ECON 404</span></td><td class="term">Fall 2024, Spring 2025, Fall 2025</td><td class="prof-info">Carrillo, Libgober</td></tr>
+  <tr><td>Experimental Economics <span class="muted">ECON 420</span></td><td class="term">Fall 2024, Fall 2025</td><td class="prof-info">Carrillo</td></tr>
+  <tr><td>Neuroeconomics <span class="muted">ECON 405</span></td><td class="term">Spring 2025</td><td class="prof-info">Coricelli</td></tr>
+  <tr><td>PhD Macro Core Bootcamp <span class="muted">ECON 602, 605</span></td><td class="term">Spring 2025</td><td class="prof-info"></td></tr>
+</table>
 
 <hr>
 
