@@ -23,7 +23,7 @@ redirect_from:
   
   .term {color: #5a7d7c; font-size: 0.8em; }
   .course-name {  }
-  .prof-info { font-size: 0.8rem; color: #888; font-style: italic; text-align: right; }
+  .prof-info { font-size: 0.8rem; color: #666; font-style: italic; text-align: right; }
   
   @media (max-width: 700px) {
     .teaching-grid { grid-template-columns: 1fr; gap: 5px; }
@@ -34,6 +34,14 @@ redirect_from:
   details.abstract { margin: -0.6em 0 1.6em; font-size: 0.8em; }
   details.abstract summary { cursor: pointer; color: #5a7d7c; }
   details.abstract p { text-align: justify; margin-top: 0.5em; }
+
+  /* --- SECONDARY TEXT --- */
+  /* #666 on white and #c8c8c8 on the dark theme's #474747 both clear 4.5:1 contrast */
+  .muted { color: #666; font-size: 0.88em; }
+  html[data-theme="dark"] .muted,
+  html[data-theme="dark"] .prof-info { color: #c8c8c8; }
+  html[data-theme="dark"] .term,
+  html[data-theme="dark"] details.abstract summary { color: #a9cfce; }
 </style>
 
 
@@ -43,7 +51,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 ## Working Papers
 
 [The Backlash of Gender Quotas](https://www.ssrn.com/abstract=6539018)  
-<span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>  
+<span class="muted">with Alejandro Martínez-Marquina</span>  
 <span style="font-size:0.88em;">Under Review</span>
 
 <details class="abstract"><summary>Abstract</summary>
@@ -51,7 +59,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 </details>
 
 [Reading Minds to Win: Cognitive and Affective Skills in Children's Strategic Play](/files/tomKids.pdf)  
-<span style="color:#888; font-size:0.88em;">with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez</span>  
+<span class="muted">with Antonio Alfonso, Pablo Brañas, Isabelle Brocas, Juan Carrillo & María José Vázquez</span>  
 <span style="font-size:0.88em;">R&R, Journal of Economic Theory</span>
 
 <details class="abstract"><summary>Abstract</summary>
@@ -59,7 +67,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 </details>
 
 [Crime and Transportation Choice in Latin America](https://ssrn.com/abstract=7132750)  
-<span style="color:#888; font-size:0.88em;">with Santiago De Martini & Santiago Perez-Vincent</span>  
+<span class="muted">with Santiago De Martini & Santiago Perez-Vincent</span>  
 <span style="font-size:0.88em;">Under Review &mdash; [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)</span>
 
 <details class="abstract"><summary>Abstract</summary>
@@ -70,20 +78,20 @@ I am a PhD student in Economics at the **University of Southern California**. My
 ## Research In Progress
 
 [Are Cops All Bayesian? Selection Neglect in Data-Driven Policing](/files/GDNP_AllCopsAreBayesian.pdf)  
-<span style="color:#888; font-size:0.88em;">with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent</span>
+<span class="muted">with Santiago De Martini, Ervyn Norza & Santiago Perez-Vincent</span>
 
 <details class="abstract"><summary>Abstract</summary>
 <p>Crime predictions guide patrol allocation, stops, and searches, but crime data is not a representative sample of crime. Because minorities are over-selected into crime records, officers who fail to adjust for data selection may form biased beliefs even absent animus. We provide experimental evidence of this mechanism in a lab-in-the-field experiment with senior police officers in Colombia. Officers neglect data selection, translating differences in crime observability into prediction bias. Neglect is a representational failure, so algorithmic advice fails to debias predictions. Selection neglect offers a cognitive foundation for statistical discrimination in policing.</p>
 </details>
 
 The Paradox of Quotas  
-<span style="color:#888; font-size:0.88em;">with Alejandro Martínez-Marquina</span>
+<span class="muted">with Alejandro Martínez-Marquina</span>
 
 
 ## Journal Articles 
 
 [Multilevel Predictors of Climate Change Beliefs in Africa](https://doi.org/10.1371/journal.pone.0266387)  
-<span style="color:#888; font-size:0.88em;">with Alfonso Sánchez</span>  
+<span class="muted">with Alfonso Sánchez</span>  
 <span style="font-size:0.88em;">*PLOS One* 2022, 17(4): e0266387.</span>
 
 
@@ -93,32 +101,32 @@ The Paradox of Quotas
 <div class="teaching-grid">
   <div class="term"> Spring 2026</div>
   <div class="course-name">Principles of Macroeconomics <br> 
-    <span style="color:#888; font-size:0.88em;">ECON 205 </span><a href="/files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8rem;">[View Evaluations]</a> </div>
+    <span class="muted">ECON 205 </span><a href="/files/ECON205reviewsSpring2026.pdf" target="_blank" style="font-size: 0.8rem;">[View Evaluations]</a> </div>
   <div class="prof-info">Prof. Andrés Pérez Corsini</div>
 </div>
 
 <div class="teaching-grid">
   <div class="term">Fall 2025, Spring 2025<br> & Fall 2024</div>
-  <div class="course-name">Game Theory <br> <span style="color:#888; font-size:0.88em;">ECON 404 </span> </div>
+  <div class="course-name">Game Theory <br> <span class="muted">ECON 404 </span> </div>
   <div class="prof-info">Prof. Juan Carrillo <br> & Prof. Jonathan Libgober</div>
 </div>
 
 <div class="teaching-grid">
   <div class="term">Fall 2025 <br> & Fall 2024   </div>
-  <div class="course-name">Experimental Economics <br> <span style="color:#888; font-size:0.88em;">ECON 420 </span> </div>
+  <div class="course-name">Experimental Economics <br> <span class="muted">ECON 420 </span> </div>
   <div class="prof-info">Prof. Juan Carrillo</div>
 </div>
 
 <div class="teaching-grid">
   <div class="term"> Spring 2025 <br>  </div>
-  <div class="course-name"> Neuroeconomics <br> <span style="color:#888; font-size:0.88em;">ECON 405 </span> </div>
+  <div class="course-name"> Neuroeconomics <br> <span class="muted">ECON 405 </span> </div>
   <div class="prof-info">Prof. Giorgio Coricelli</div>
 </div>
 
 <div class="teaching-grid">
   <div class="term"> Spring 2025</div>
   <div class="course-name">Macro PhD Core Exam Bootcamp<br> 
-    <span style="color:#888; font-size:0.88em;">ECON 602 & 605 </span> </div>
+    <span class="muted">ECON 602 & 605 </span> </div>
   <div class="prof-info"> </div>
 </div>
 
