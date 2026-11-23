@@ -24,7 +24,7 @@ Funded by the [Institute for Outlier Research in Business](https://www.marshall.
 
 <br>
 
-## [**Safety First: Crime and the Demand for Public Transportation in Latin America**](../files/DGP_SafetyFirst.pdf)
+## [**Safety First: Crime and the Demand for Public Transportation in Latin America**](https://ssrn.com/abstract=7132750)
 **With Santiago De Martini & Santiago Perez-Vincent**
 
 Funded by the IDB, first released as [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)
