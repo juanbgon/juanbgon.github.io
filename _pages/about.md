@@ -41,7 +41,7 @@ redirect_from:
 </style>
 
 
-I am a PhD student in Economics at the **University of Southern California**. My research is in behavioral and applied economics. I combine data and experiments to study how people respond to public policy, with a focus on gender, labor markets, and crime. You can [view my CV here](/files/CV.pdf). 
+I am a PhD student in Economics at the **University of Southern California**. My research is in behavioral and applied economics. I combine data and experiments to study how people respond to public policy, with a focus on gender, labor markets, and crime.
 
 
 ## Working Papers
