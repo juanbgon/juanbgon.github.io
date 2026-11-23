@@ -80,7 +80,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 <p>Crime predictions guide patrol allocation, stops, and searches, but crime data is not a representative sample of crime. Because minorities are over-selected into crime records, officers who fail to adjust for data selection may form biased beliefs even absent animus. We provide experimental evidence of this mechanism in a lab-in-the-field experiment with senior police officers in Colombia. Officers neglect data selection, translating differences in crime observability into prediction bias. Neglect is a representational failure, so algorithmic advice fails to debias predictions. Selection neglect offers a cognitive foundation for statistical discrimination in policing.</p>
 </details>
 
-The Paradox of Quotas  
+The Quotas' Paradox  
 <span class="muted">with Alejandro Martínez-Marquina</span>
 
 
@@ -94,7 +94,7 @@ The Paradox of Quotas
 ## Teaching
 
 <table class="teaching">
-  <tr><td>Principles of Macroeconomics <span class="muted">ECON 205</span> <a class="eval" href="/files/ECON205reviewsSpring2026.pdf" target="_blank">evaluations</a></td><td class="term">Spring 2026</td><td class="prof-info">Pérez Corsini</td></tr>
+  <tr><td>Principles of Macroeconomics <span class="muted">ECON 205</span> <a class="eval" href="/files/ECON205reviewsSpring2026.pdf" target="_blank">evaluations</a></td><td class="term">Spring 2026, Fall 2026</td><td class="prof-info">Pérez Corsini, Meza Cordero</td></tr>
   <tr><td>Game Theory <span class="muted">ECON 404</span></td><td class="term">Fall 2024, Spring 2025, Fall 2025</td><td class="prof-info">Carrillo, Libgober</td></tr>
   <tr><td>Experimental Economics <span class="muted">ECON 420</span></td><td class="term">Fall 2024, Fall 2025</td><td class="prof-info">Carrillo</td></tr>
   <tr><td>Neuroeconomics <span class="muted">ECON 405</span></td><td class="term">Spring 2025</td><td class="prof-info">Coricelli</td></tr>
