@@ -15,7 +15,7 @@ redirect_from:
   table.teaching td { border: 0; border-bottom: 1px solid var(--global-border-color); padding: 0.55em 0.75em 0.55em 0; vertical-align: baseline; }
   table.teaching tr:last-child td { border-bottom: 0; }
   table.teaching .eval { font-size: 0.85em; }
-  .term { color: #5a7d7c; }
+  .term { color: #666; }
   .prof-info { color: #666; font-style: italic; text-align: right; padding-right: 0; }
 
   /* on phones, stack each course: name, then terms, then instructors */
@@ -28,7 +28,7 @@ redirect_from:
 
   /* --- PAPER SUMMARIES --- */
   details.abstract { margin: -0.6em 0 1.6em; font-size: 0.8em; }
-  details.abstract summary { cursor: pointer; color: #5a7d7c; }
+  details.abstract summary { cursor: pointer; color: var(--global-link-color); }
   details.abstract p { text-align: justify; margin-top: 0.5em; }
 
   /* --- SECONDARY TEXT --- */
@@ -36,8 +36,7 @@ redirect_from:
   .muted { color: #666; font-size: 0.88em; }
   html[data-theme="dark"] .muted,
   html[data-theme="dark"] .prof-info { color: #c8c8c8; }
-  html[data-theme="dark"] .term,
-  html[data-theme="dark"] details.abstract summary { color: #a9cfce; }
+  html[data-theme="dark"] .term { color: #c8c8c8; }
 </style>
 
 
