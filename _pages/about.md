@@ -45,7 +45,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 
 ## Working Papers
 
-[The Backlash of Gender Quotas](https://www.ssrn.com/abstract=6539018)  
+[The Backlash Against Gender Quotas](https://www.ssrn.com/abstract=6539018)  
 <span class="muted">with Alejandro Martínez-Marquina</span>  
 <span style="font-size:0.88em;">Under Review</span>
 
