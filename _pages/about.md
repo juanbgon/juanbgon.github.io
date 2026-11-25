@@ -15,8 +15,8 @@ redirect_from:
   table.teaching td { border: 0; border-bottom: 1px solid var(--global-border-color); padding: 0.55em 0.75em 0.55em 0; vertical-align: baseline; }
   table.teaching tr:last-child td { border-bottom: 0; }
   table.teaching .eval { font-size: 0.85em; }
-  .term { color: #666; }
-  .prof-info { color: #666; font-style: italic; text-align: right; padding-right: 0; }
+  .term { color: #767676; }
+  .prof-info { color: #767676; font-style: italic; text-align: right; padding-right: 0; }
 
   /* on phones, stack each course: name, then terms, then instructors */
   @media (max-width: 700px) {
@@ -32,11 +32,11 @@ redirect_from:
   details.abstract p { text-align: justify; margin-top: 0.5em; }
 
   /* --- SECONDARY TEXT --- */
-  /* #666 on white and #c8c8c8 on the dark theme's #474747 both clear 4.5:1 contrast */
-  .muted { color: #666; font-size: 0.88em; }
+  /* #767676 on white and #bcbcbc on the dark theme's #474747 both clear 4.5:1 contrast */
+  .muted { color: #767676; font-size: 0.88em; }
   html[data-theme="dark"] .muted,
-  html[data-theme="dark"] .prof-info { color: #c8c8c8; }
-  html[data-theme="dark"] .term { color: #c8c8c8; }
+  html[data-theme="dark"] .prof-info { color: #bcbcbc; }
+  html[data-theme="dark"] .term { color: #bcbcbc; }
 
   /* --- PAPER DETAILS --- */
   /* status and citation lines are grey; only the journal name stays in the main text colour */
