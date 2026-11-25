@@ -10,6 +10,7 @@ html {
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
+  font-weight: 350; /* Chivo is variable; slightly lighter than regular (400) */
   background-color: var(--global-bg-color);
 
   margin: 0;
@@ -28,7 +29,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
+}
+
+strong, b {
+  font-weight: 600;
 }
 
 h1 {
