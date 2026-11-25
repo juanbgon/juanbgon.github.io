@@ -59,15 +59,15 @@ I am a PhD student in Economics at the **University of Southern California**. My
 </details>
 
 [Reading Minds to Win: Cognitive and Affective Skills in Children's Strategic Play](/files/tomKids.pdf)  
-<span class="muted">with <a href="https://www.antonioalfonso.org/">Antonio Alfonso</a>, <a href="https://www.uloyola.es/en/research-transfer/researchers/pablo-ernesto-branas-garza">Pablo Brañas</a>, <a href="https://isabellebrocas.org/">Isabelle Brocas</a>, <a href="http://www.jdcarrillo.org/">Juan Carrillo</a> & <a href="https://www.uloyola.es/en/research-transfer/researchers/maria-jose-vazquez-de-francisco">María José Vázquez</a></span>  
-<span class="muted"><em>Revise and Resubmit at</em> <span class="journal">Journal of Economic Theory</span></span>
+<span class="muted">with <a href="https://www.antonioalfonso.org/">Antonio Alfonso</a>, <a href="https://economiaexperimental.es/">Pablo Brañas</a>, <a href="https://isabellebrocas.org/">Isabelle Brocas</a>, <a href="http://www.jdcarrillo.org/">Juan Carrillo</a> & <a href="https://www.uloyola.es/en/research-transfer/researchers/maria-jose-vazquez-de-francisco">María José Vázquez</a></span>  
+<span class="muted">Revise and resubmit at <span class="journal">Journal of Economic Theory</span></span>
 
 <details class="abstract"><summary>Abstract</summary>
 <p>Do children use information to their own advantage? Is this ability related to emotional intelligence? To answer these questions, we conduct a large lab-in-the-field experiment with 1,662 participants from 8 to 18 years old who play a game with two-sided private information. We show that participants of all ages understand the fundamental relationship between action and private information. The ability to select payoff-enhancing strategies steadily increases with age but the capacity to recognize subtle variations in incentives triggered by changes in game structure remains elusive even for individuals at their peak cognitive capacity. Remarkably, participants of all ages who have heightened emotional intelligence exhibit a greater tendency to anticipate the behavior of others, best respond to them and, consequently, achieve higher payoffs. The paper thus reveals a strong, robust connection between affective and cognitive theory of mind in young populations. It also highlights the importance of empathic skills for decision making.</p>
 </details>
 
 [Crime and Transportation Choice in Latin America](https://ssrn.com/abstract=7132750)  
-<span class="muted">with Santiago De Martini & <a href="https://www.santiagoperezvincent.com/">Santiago Perez-Vincent</a></span>  
+<span class="muted">with <a href="https://sites.google.com/view/santiagodemartini/home">Santiago De Martini</a> & <a href="https://www.santiagoperezvincent.com/">Santiago Perez-Vincent</a></span>  
 <span class="muted">Under review &mdash; [IDB Working Paper 1662](https://publications.iadb.org/en/publications/english/viewer/The-Impact-of-Crime-Perception-on-Public-Transport-Demand-Evidence-from-Six-Latin-American-Capitals.pdf)</span>
 
 <details class="abstract"><summary>Abstract</summary>
@@ -78,7 +78,7 @@ I am a PhD student in Economics at the **University of Southern California**. My
 ## Research In Progress
 
 [Are Cops All Bayesian? Selection Neglect in Data-Driven Policing](/files/GDNP_AllCopsAreBayesian.pdf)  
-<span class="muted">with Santiago De Martini, <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/">Ervyn Norza</a> & <a href="https://www.santiagoperezvincent.com/">Santiago Perez-Vincent</a></span>
+<span class="muted">with <a href="https://sites.google.com/view/santiagodemartini/home">Santiago De Martini</a>, <a href="https://cienciassociales.uniandes.edu.co/ciencia-politica-estudios-globales/estudiantes-posgrado/ervyn-norza-cespedes/">Ervyn Norza</a> & <a href="https://www.santiagoperezvincent.com/">Santiago Perez-Vincent</a></span>
 
 <details class="abstract"><summary>Abstract</summary>
 <p>Crime predictions guide patrol allocation, stops, and searches, but crime data is not a representative sample of crime. Because minorities are over-selected into crime records, officers who fail to adjust for data selection may form biased beliefs even absent animus. We provide experimental evidence of this mechanism in a lab-in-the-field experiment with senior police officers in Colombia. Officers neglect data selection, translating differences in crime observability into prediction bias. Neglect is a representational failure, so algorithmic advice fails to debias predictions. Selection neglect offers a cognitive foundation for statistical discrimination in policing.</p>
